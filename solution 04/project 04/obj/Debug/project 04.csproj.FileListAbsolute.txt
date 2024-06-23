@@ -1,0 +1,10 @@
+D:\My Project\Visual Programming\solution 04\project 04\bin\Debug\project 04.exe.config
+D:\My Project\Visual Programming\solution 04\project 04\bin\Debug\project 04.exe
+D:\My Project\Visual Programming\solution 04\project 04\bin\Debug\project 04.pdb
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project 04.csproj.AssemblyReference.cache
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project_04.Form1.resources
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project_04.Properties.Resources.resources
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project 04.csproj.GenerateResource.cache
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project 04.csproj.CoreCompileInputs.cache
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project 04.exe
+D:\My Project\Visual Programming\solution 04\project 04\obj\Debug\project 04.pdb
